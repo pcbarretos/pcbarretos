@@ -42,7 +42,7 @@ Procuro sempre aprender novas tecnologias para deixar os ambientes mais escaláv
     [![My Skills](https://skillicons.dev/icons?i=aws,azure&perline=7)](https://skillicons.dev)
 - IDE's: 
 
-    [![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm&perline=7)](https://skillicons.dev)    
+    [![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,goland&perline=7)](https://skillicons.dev)    
 
 
 ## Projetos Criativos
